@@ -12,6 +12,10 @@ import java.util.logging.Logger;
 /**
  *
  * @author pascalfares 
+ * 
+ * terminal command to run:
+ * ~/Development/java-tutorials/Props$ java -Dconfig.file=myprop.env  -jar props/dist/props.jar HOME
+config.file=myprop.env
  */
 public class Props {
 
