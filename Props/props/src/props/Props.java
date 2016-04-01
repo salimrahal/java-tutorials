@@ -11,7 +11,8 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author pascalfares
+ * @author pascalfares 
+ * 2016
  */
 public class Props {
 
