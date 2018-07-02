@@ -1,2 +1,2 @@
 # java-tutorials
-Totorials, howto and how it works 
+Tutorials and how it works .
